@@ -1,0 +1,829 @@
+.leftmenu1 {
+    FONT: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #333333;
+    TEXT-DECORATION: none;
+    background: url(images/bg-leftmenu01.jpg);
+    margin-left: 10pt;
+    height: 28px;
+    vertical-align: middle
+}
+
+.leftmenu2 {
+    FONT: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #333333;
+    TEXT-DECORATION: none;
+    background: url(images/bg-leftmenu02.gif);
+    margin-left: 10pt;
+    height: 28px;
+    vertical-align: middle
+}
+
+.leftmenu3 {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #333333;
+    TEXT-DECORATION: none;
+    background: url(images/bg-leftmenu04.gif);
+    margin-left: 10pt;
+    height: 22px;
+    vertical-align: middle
+}
+
+.leftmenu-active {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #333333;
+    TEXT-DECORATION: none;
+    background: url(images/bg-leftmenu03.gif);
+    margin-left: 10pt;
+    height: 22px;
+    vertical-align: middle
+}
+.heading2 {
+    font-family: Tahoma, "MS Sans Serif", "Microsoft Sans Serif", AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    color: #333333;
+    font-weight: bold;
+}
+.tgrayb, a.tgrayb, a.tgrayb:visited {
+    FONT: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #999999;
+    TEXT-DECORATION: none
+}
+a.tgrayb:hover {
+    FONT: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #999999;
+    TEXT-DECORATION: underline;
+}
+.topic {
+    FONT: normal 14pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #000000;
+    TEXT-DECORATION: none;
+}
+
+.heading-set {
+    color: #FFFFFF;
+    margin: 10pt;
+    background-color: #939393;
+    font-family: Tahoma, Arial, Helvetica;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+    line-height: 20px;
+}
+
+.etf-summary{
+	color: #000000;
+    margin: 10pt;
+    background-color: #D8D8D8;
+    font-family: Tahoma, Arial, Helvetica;
+    font-size: 8pt;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 20px;
+}
+
+.etf-price{
+	color: #000000;
+    margin: 10pt;
+    background-color: #D8D8D8;
+    font-family: Tahoma, Arial, Helvetica;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 20px;
+}
+
+.etf-priceup{
+	color: #04B404;
+    margin: 10pt;
+    background-color: #D8D8D8;
+    font-family: Tahoma, Arial, Helvetica;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 20px;
+}
+
+.etf-pricedown{
+	color: red;
+    margin: 10pt;
+    background-color: #D8D8D8;
+    font-family: Tahoma, Arial, Helvetica;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 20px;
+}
+
+a.heading-set, a.heading-set:visited, a.heading-set:hover {
+    color: #FFFFFF;
+    font-family: Tahoma, Arial, Helvetica;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+    text-decoration: underline;
+    line-height: 20px;
+}
+/*
+a.heading-set:hover {
+    color: #FFFFFF;
+    font-family: Tahoma, Arial, Helvetica;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+    text-decoration: underline;
+}
+*/
+.heading-level3 {
+    margin: 10pt;
+    background-color: #939393;
+    font-family: Tahoma, Arial, Helvetica;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    color: #FFFFFF
+}
+
+.odd {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #000000;
+    TEXT-DECORATION: none;
+    background-color: #FFFFFF;
+}
+
+td.odd {
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #EDEDED;
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+}
+
+.even {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #000000;
+    TEXT-DECORATION: none;
+    background-color: #f4f4f4;
+}
+
+td.even {
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #EDEDED;
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+}
+
+.remark {
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-weight: normal;
+    color: #838383;
+    text-decoration: none
+    padding: 3px;
+}
+
+.last {
+    FONT: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+
+.lefttable {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #000000;
+    TEXT-DECORATION: none;
+    background-color: #f4f4f4; /*white-space: nowrap; */
+}
+
+.divider-head {
+    background-image: url(images/bg-dividerhead.gif);
+    background-repeat: repeat-y;
+}
+
+.divider-table {
+    background-image: url(images/bg-dividertable.gif);
+    background-repeat: repeat-y;
+}
+
+.divider-horizon {
+    background-image: url(images/divider-horizon.gif)
+}
+
+a.leftmenu {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #333333;
+    TEXT-DECORATION: none
+}
+
+a.leftmenu:visited {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #333333;
+    TEXT-DECORATION: none
+}
+
+a.leftmenu:hover {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #333333;
+    TEXT-DECORATION: underline
+}
+
+.copyright {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #444444;
+    TEXT-DECORATION: none;
+    border: solid;
+    border-color: #CCCCCC;
+    border-width: 1px;
+    margin: 10pt
+}
+
+a.privacy {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #444444;
+    TEXT-DECORATION: underline
+}
+
+a.privacy:visited {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #444444;
+    TEXT-DECORATION: none
+}
+
+a.privacy:hover {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #444444;
+    TEXT-DECORATION: none
+}
+
+a.orangelink {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #ff8400;
+    TEXT-DECORATION: none
+}
+
+a.orangelink:visited {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #ff8400;
+    TEXT-DECORATION: none
+}
+
+a.orangelink:hover {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #ff8400;
+    TEXT-DECORATION: underline
+}
+
+.tfont {
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 8.5pt;
+    font-weight: normal;
+    color: #000000;
+    text-decoration: none;
+    line-height: 12px;
+}
+table.tfont {
+    border: 0px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    padding: 3px;
+}
+td.tfont {
+    padding: 3px;
+    border: 0px;
+}
+.industry {
+    background-color: #DEDFDE;
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    color: #000000
+}
+
+.settd1 {
+    background-color: #EFEFEF;
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    color: #000000
+}
+.tbg1 {
+    background-color: #F4F4F4;
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    color: #000000
+}
+.rank {
+    background-color: #F2DCAF;
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    color: #000000
+}
+
+.bggrey1 {
+    background-image: url("images/bg-grey1.gif");
+}
+
+.bgblue1 {
+    BACKGROUND-COLOR: #EAF0FE;
+}
+
+.line {
+    BACKGROUND-COLOR: #BCBCBC
+}
+
+.yellowline {
+    BACKGROUND-COLOR: #FCAE16
+}
+
+.topicbg {
+    BACKGROUND-COLOR: #F4F4F4
+}
+
+.lineset {
+    BACKGROUND-COLOR: #154473
+}
+
+.linemai {
+    BACKGROUND-COLOR: #5FA306
+}
+
+.linebex {
+    BACKGROUND-COLOR: #004F9C
+}
+
+.textbox {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    WIDTH: auto;
+    COLOR: #000000;
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-TOP: #000000 1px solid;
+    BORDER-BOTTOM: #000000 1px solid;
+    HEIGHT: auto;
+    BACKGROUND-COLOR: #FFFFFF
+}
+.numberbox {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    WIDTH: auto;
+    COLOR: #000000;
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-TOP: #000000 1px solid;
+    BORDER-BOTTOM: #000000 1px solid;
+    HEIGHT: auto;
+    BACKGROUND-COLOR: #FFFFFF;
+    text-align: right;
+}
+.listbox {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    WIDTH: auto;
+    COLOR: #000000;
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-TOP: #000000 1px solid;
+    BORDER-BOTTOM: #000000 1px solid;
+    HEIGHT: auto;
+    BACKGROUND-COLOR: #FFFFFF
+}
+.button {
+    font: normal 8pt Tahoma, Verdana, Cordia New, Angsana New, Angsana UPC, Cordia UPC, Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    border: 1px solid #FF6600;
+    background-color: #FF6600;
+    height: auto;
+    width: auto;
+    padding: 5px;
+}
+.button:disabled {
+    font: normal 8pt Tahoma, Verdana, Cordia New, Angsana New, Angsana UPC, Cordia UPC, Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    border: 1px solid #BCBCBC;
+    background-color: #BCBCBC;
+    height: auto;
+    width: auto;
+    padding: 3px;
+}
+
+.box {
+    background-color: #FFFFFF;
+    border: 1px solid;
+    padding-top: 2px;
+    border-color: #FCAE16 #FCAE16 #FCAE16 #FCAE16;
+    color: #000000;
+    vertical-align: middle;
+}
+
+/*=	border-color: #Top #Right  #Bottom #Left; --*/
+
+.content-box {
+    background-color: #FFFFFF;
+    background-image: url(images/interface/content_bg.gif);
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+    background-position: top;
+    border: 1px solid #FFFFFF;
+}
+
+/* Some part of old version */
+.table {
+    border: 0px solid #EDEDED;
+}
+table.table {
+    border: 0px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    padding: 3px;
+}
+td.table {
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #EDEDED;
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    vertical-align: top;
+    padding: 3px;
+}
+
+td.table-black {
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #000000;
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    vertical-align: top;
+    padding: 3px;
+}
+td.table-noborder{
+    border: 0 !important;
+}
+td.table-bold {
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #EDEDED;
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    font-weight: bold;
+    vertical-align: top;
+    padding: 3px;
+}
+
+table.factsheet {
+    border: 0px solid #FFFFFF;
+    padding: 0px;
+    font-family: "Tahoma", "Cordia New", "Angsana New", AngsanaUPC, CordiaUPC;
+    font-size: 8.5pt;
+    font-weight: normal;
+    color: #000000;
+    text-decoration: none;
+    line-height: 12px;
+}
+
+td.factsheet {
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #EDEDED;
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+td.factsheet-green {
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #EDEDED;
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: green;
+}
+
+td.factsheet-red {
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #EDEDED;
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: red;
+}
+
+td.factsheetb {
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #000000;
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+td.factsheetb-green {
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #000000;
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: green;
+}
+
+td.factsheetb-red {
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #000000;
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: red;
+}
+
+.factsheet-heading {
+    font-family: "Tahoma", "Cordia New", "Angsana New", AngsanaUPC, CordiaUPC;
+    font-size: 20pt;
+    color: #333333;
+    font-weight: bold;
+}
+
+.factsheet-summary-heading {
+    font-family: "Tahoma", "Cordia New", "Angsana New", AngsanaUPC, CordiaUPC;
+    background-color: #FF8400;
+    color: #FFFFFF;
+    font-weight: bold;
+    line-height: 20pt;
+}
+td.factsheet-summary {
+    color: #FF8400;
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #FF8400;
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    font-weight: bold;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 20pt;
+}
+td.factsheet-tb {
+    border-right: 0px solid #FFFFFF;
+    border-bottom: 1px solid #000000;
+    border-top: 1px solid #000000;
+    border-left: 0px solid #FFFFFF;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.tfontGrey {
+    color: #999999;
+}
+
+.tfontGreen {
+    color: #009900;
+}
+
+.tfontRed {
+    color: #FF0000;
+}
+
+.last {
+    font-size: 10pt;
+}
+
+.queryfont {
+    padding: 4px;
+    background-color: #efefef;
+    font: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;;
+}
+div.condition {
+    padding: 4px;
+    background-color: #efefef;
+    font: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+}
+table.queryfont {
+    border: 1px #CCCCCC solid;
+}
+
+td.queryfont-line {
+    padding: 4px;
+    font: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    border-bottom: 1px #CCCCCC solid;
+    text-decoration: none;
+    font-weight: bold;
+}
+option.topic {
+    font-weight: bold;
+    text-decoration: none;
+}
+.marketstatus {
+    color: #0000FF;
+    font-size: 8.5pt;
+    font-weight: bold;
+}
+
+.session {
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+    color: #4C4C4C;
+}
+
+.info, .error {
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+    color: #FF0000;
+}
+
+.indextab {
+    background-color: #C7C7C7;
+    font-family: Tahoma, Arial, Helvetica;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    color: #000000
+}
+
+.option {
+    font: normal 8pt "Tahoma", "Cordia New", "Angsana New", AngsanaUPC, CordiaUPC;
+    color: #858585;
+    text-decoration: none;
+    background: #CCCCCC
+}
+
+.index {
+    font: bold 8pt "Tahoma", "Cordia New", "Angsana New", AngsanaUPC, CordiaUPC;
+    color: #FF8800;
+    text-decoration: none;
+    font-weight: bold;
+    /*background: #E7E7E7   */
+}
+td.gainerprice {
+    color: #FFFFFF;
+    margin: 5pt;
+    background-color: green;
+    font-family: Tahoma, Arial, Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+}
+
+td.loserprice {
+    color: #FFFFFF;
+    margin: 5pt;
+    background-color: red;
+    font-family: Tahoma, Arial, Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+}
+
+td.nochangeprice {
+    color: #4E4E4E;
+    margin: 5pt;
+    background-color: yellow;
+    font-family: Tahoma, Arial, Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+}
+
+.bigfont {
+    font-size: 20pt;
+}
+
+.whitebold {
+    FONT: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #FFFFFF;
+    TEXT-DECORATION: none
+}
+
+.active {
+    font-family: "Tahoma", "Cordia New", "Angsana New", AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-weight: normal;
+    color: #277B87;
+    text-decoration: none
+}
+
+
+/* Index */
+.index {
+    FONT: bold 10pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #2c2c2c;
+    TEXT-DECORATION: none
+}
+
+.index-text {
+    FONT: normal 10pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #2c2c2c;
+    TEXT-DECORATION: none
+}
+
+.index-textbox {
+    BORDER-RIGHT: #2c2c2c 1px solid;
+    BORDER-TOP: #2c2c2c 1px solid;
+    FONT: 10pt MS Sans Serif, Microsoft Sans Serif, Tahoma, Verdana, AngsanaUPC, CordiaUPC;
+    BORDER-LEFT: #2c2c2c 1px solid;
+    WIDTH: auto;
+    COLOR: #2c2c2c;
+    BORDER-BOTTOM: #2c2c2c 1px solid;
+    HEIGHT: auto;
+    BACKGROUND-COLOR: #dfdfdf
+}
+
+A.index-link {
+    FONT: normal 10pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #ff8400;
+    TEXT-DECORATION: none
+}
+
+A.index-link:visited {
+    FONT: normal 10pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #ff8400;
+    TEXT-DECORATION: none
+}
+
+A.index-link:hover {
+    FONT: normal 10pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #ff8400;
+    TEXT-DECORATION: underline
+}
+
+A.whitelink {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #FFFFFF;
+    TEXT-DECORATION: none
+}
+
+A.whitelink:visited {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #FFFFFF;
+    TEXT-DECORATION: none
+}
+
+A.whitelink:hover {
+    FONT: normal 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #FFFFFF;
+    TEXT-DECORATION: underline
+}
+.clink {
+    font-family: "Tahoma", "Cordia New", "Angsana New", AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-weight: normal;
+    color: #267092;
+    text-decoration: none
+}
+.clink:visited {
+    font-family: "Tahoma", "Cordia New", "Angsana New", AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-weight: normal;
+    color: #267092;
+    text-decoration: none
+}
+a.clink:hover {
+    font-family: "Tahoma", "Cordia New", "Angsana New", AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-weight: normal;
+    color: #FF9900;
+    text-decoration: underline
+}
+.grayborder{
+    border: 1px solid #939393 !important;
+}

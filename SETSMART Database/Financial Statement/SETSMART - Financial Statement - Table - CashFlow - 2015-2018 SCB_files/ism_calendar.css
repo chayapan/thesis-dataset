@@ -1,0 +1,78 @@
+	td.cal{
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 10px;
+	  color : #000000;
+	  background-color : #FFFFFF;
+	}
+	select.month{
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 11px;
+	  color : #000000;
+	  width : 80px;
+	}
+	select.quarter{
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 10px;
+	  color : #000000;
+	  width : 70px;
+	}
+	select.year{
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 10px;
+	  color : #000000;
+	  width : 50px;
+	}
+	td.calDaysColor {
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 10px;
+	  color : #ffffff;
+	  background-color : #000000;
+	}
+	td.calWeekend {
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 10px;
+	  color : #ffffff;
+	  background-color : #f4e0f3;
+	}
+	td.calBgColor {
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 10px;
+	  color : #ffffff;
+	  background-color : #f4e0f3;
+	}
+	.calBorderColor {
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 10px;
+	  color : #ffffff;
+	  background-color : #a9a9a9;
+	}
+	td.calHighlightColor {
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 10px;
+	  color : #ffffff;
+	  background-color : #F7AE39;
+	}
+	A.cal {
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 10px;
+	  color : #000000;
+	  text-decoration : none;
+	}
+	A.cal:Hover {
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 10px;
+	  color : #FF0000;
+	  text-decoration : none;
+	}
+	.disabled {
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 10px;
+	  color : #808080;
+	  text-decoration : none;
+	}
+	.calWeekend {
+	  font-family : Arial,Helvetica,Sans-serif;
+	  font-size : 10px;
+	  color : #C00000;
+	  text-decoration : none;
+	}

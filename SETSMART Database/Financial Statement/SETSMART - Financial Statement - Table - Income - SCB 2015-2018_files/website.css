@@ -1,0 +1,208 @@
+table {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #000000;
+    TEXT-DECORATION: none;
+}
+
+body {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #000000;
+    TEXT-DECORATION: none;
+}
+/*
+td, tr, p, div {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+*/
+img {
+    border: 0;
+}
+
+a {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    color: #FF8400;
+    text-decoration: underline;
+    /*COLOR: #FF8400;
+    TEXT-DECORATION: none*/
+}
+a:visited {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #84578A;
+    TEXT-DECORATION: none
+}
+
+a:hover {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #FF8400;
+    TEXT-DECORATION: underline
+}
+
+a.blackbold {
+    FONT: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+
+a.blackbold:visited {
+    FONT: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+
+a.blackbold:hover {
+    FONT: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #000000;
+    TEXT-DECORATION: underline
+}
+.language {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+    color: #333333;
+    font-weight: bold;
+}
+
+.message {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    color: #FF0000;
+    text-decoration: none
+}
+
+PRE {
+    FONT-FAMILY: Tahoma, "MS Sans Serif", Arial, Helvetica, Geneva, Swiss, SunSans-Regular, sans-serif, Sans Serif;
+    FONT-SIZE: 8pt
+}
+
+LI {
+    FONT-FAMILY: Tahoma, "MS Sans Serif", Arial, Helvetica, Geneva, Swiss, SunSans-Regular, sans-serif, Sans Serif;
+    FONT-SIZE: 8pt
+}
+
+UL {
+    FONT-FAMILY: Tahoma, "MS Sans Serif", Arial, Helvetica, Geneva, Swiss, SunSans-Regular, sans-serif, Sans Serif;
+    FONT-SIZE: 8pt
+}
+
+OL {
+    FONT-FAMILY: Tahoma, "MS Sans Serif", Arial, Helvetica, Geneva, Swiss, SunSans-Regular, sans-serif, Sans Serif;
+    FONT-SIZE: 8pt
+}
+
+SPAN {
+    FONT-FAMILY: Tahoma, "MS Sans Serif", Arial, Helvetica, Geneva, Swiss, SunSans-Regular, sans-serif, Sans Serif;
+    FONT-SIZE: 8pt
+}
+
+.twhiteb {
+    font-family: "Tahoma", "Cordia New", "Angsana New", AngsanaUPC, CordiaUPC;
+    font-size: 7pt;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #887C61
+}
+
+.headlink {
+    font-family: "Tahoma", "Cordia New", "Angsana New", AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-weight: bold;
+    color: #F7AC3D;
+    text-decoration: underline
+}
+
+.heading1 {
+    FONT: normal 14pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #000000;
+    TEXT-DECORATION: none;
+}
+
+a.logout {
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 7pt;
+    font-weight: bold;
+    color: #6E6E6E;
+    text-decoration: none;
+}
+
+a.logout:hover {
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 7pt;
+    font-weight: bold;
+    color: #FF9933;
+}
+
+.user {
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-weight: bold;
+    color: #4C4C4C;
+    text-decoration: none;
+    background-color: #FFFFFF
+}
+
+.usergroup {
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 7.5pt;
+    font-weight: bold;
+    color: #4C4C4C;
+    text-decoration: none;
+    background-color: #FFFFFF
+}
+.expired {
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 7pt;
+    color: #4C4C4C;
+    text-decoration: none;
+    background-color: #FFFFFF
+}
+.button {
+    cursor: pointer;
+}
+.topic-orange {
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-weight: bold;
+    color: #FF8400;
+    text-decoration: none;
+}
+/*=	Phen add for Drop Down Menu --*/
+.topic-equity {
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-weight: bold;
+    color: #f7951a;
+    text-decoration: none;
+}
+
+.topic-tfex {
+    font-family: Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    font-size: 8pt;
+    font-weight: bold;
+    color: #28afe4;
+    text-decoration: none;
+}
+
+a.dropdown-menu {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #4b4b4b;
+    TEXT-DECORATION: none
+}
+
+a.dropdown-menu:visited {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #4b4b4b;
+    TEXT-DECORATION: none
+}
+
+a.dropdown-menu:hover {
+    FONT: 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;
+    COLOR: #4b4b4b;
+    TEXT-DECORATION: underline
+}

@@ -1,0 +1,203 @@
+/*edit*/
+.dcjq-mega-menu{
+	padding-left:7px; 
+	margin-top:-1.5px;
+}
+.mkt_submenu{
+	margin-left:166px;
+	margin-bottom:0px;
+	padding-top:0px;
+	border-top:0px;
+	margin-top:-10px;
+}
+.news_submenu{
+	margin-left:283px;
+	margin-bottom:0px;
+	padding-top:0px;
+	border-top:0px;
+	margin-top:-10px;
+}
+.company_submenu{
+	margin-left:355px;
+	margin-bottom:0px;
+	padding-top:0px;
+	border-top:0px;
+	margin-top:-10px;
+}
+.header-table{
+	margin-bottom:0px;
+	padding-top:5px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-bottom:0px;
+	border-bottom:0px;
+}
+
+/* Reset code to remove theme inherent styling */
+.dcjq-mega-menu ul.menu ul, .dcjq-mega-menu ul.menu li {
+list-style: none; 
+padding: 0; 
+margin: 0;
+}
+.dcjq-mega-menu ul.menu ul {
+display: none; /* Hides non-mega links */
+
+}
+.dcjq-mega-menu ul.menu .sub ul {
+display: block; /* overrides above hide */
+}
+
+/* Main menu styles */
+.dcjq-mega-menu ul.menu {
+width: 1100px; 
+height: 40px; 
+position: relative; /* Important - required for positioning of mega menu */
+line-height: 16px;
+padding:0 px;
+margin:0 px;
+margin: 0px;
+}
+.dcjq-mega-menu ul.menu li {
+float: left; 
+}
+.dcjq-mega-menu ul.menu li a {
+float: left;  
+padding: 12px 25px; 
+
+color: #fff;
+text-shadow: 1px 1px 1px #000; 
+text-decoration: none;
+}
+.dcjq-mega-menu ul.menu li.mega-hover a, .dcjq-mega-menu ul.menu li a:hover {
+background-position: 100% -40px; 
+color: #000; 
+text-shadow: none;
+}
+
+/* Arrow tag for parent links */
+.dcjq-mega-menu ul.menu li a.dc-mega {
+padding-right: 38px; /* Additional padding for arrow */
+position: relative; /* Required for arrow positioning */
+}
+.dcjq-mega-menu ul.menu li a .dc-mega-icon {
+display: block; 
+position: absolute; 
+top: 18px; 
+right: 15px; 
+width: 8px; 
+height: 6px; 
+background: url(images/arrow.png) no-repeat 0 0;
+}
+.dcjq-mega-menu ul.menu li.mega-hover a .dc-mega-icon {
+background-position: 0 100%;
+}
+
+/* Mega Menu Styling */
+/* Mega Drop Down Container */
+.dcjq-mega-menu ul.menu li .sub-container {
+position: absolute; /* Required */
+background: url(images/bg_sub_left.png) no-repeat 0 100%; 
+padding-left:3px;
+margin-left: -3px;
+}
+.dcjq-mega-menu ul.menu li .sub {
+background: url(images/bg_sub.png) no-repeat 100% 100%; 
+padding: 20px 20px 20px 10px;
+}
+.dcjq-mega-menu ul.menu li .sub-container.mega .sub {
+padding: 20px 10px 0 0;
+}
+.dcjq-mega-menu ul.menu li .sub .row { /* Clear the sub-menu floats */
+width: 100%; 
+overflow: hidden; 
+clear: both;
+}
+.dcjq-mega-menu ul.menu li .sub li {
+float: none; 
+}
+/* Sub-menu Headers */
+.dcjq-mega-menu ul.menu li .sub li.mega-hdr { /* Sub-menu headers - i.e. 2nd level navigation */
+float: left; /* Float the sub-menus and give them a fixed width to from the mega menu rows */
+width: 260px;
+margin: 0 10px 20px 10px;
+border: 1px solid #ccc; 
+}
+.dcjq-mega-menu ul.menu li .sub a { /* Clear the styles from the top-level links and set the font styles */
+background: none; 
+border: none; 
+text-shadow: none; 
+color: #111; 
+padding: 7px 10px; 
+display: block; 
+float: none; 
+text-decoration: none; 
+}
+.dcjq-mega-menu ul.menu li .sub li.mega-hdr a.mega-hdr-a {
+padding: 7px 10px; 
+margin-bottom: 5px; 
+border-bottom: 1px solid #ccc; 
+text-transform: uppercase; 
+color: #000; 
+background: #EAEAEA url(images/bg_hdr.png) repeat-x center center;
+}
+.dcjq-mega-menu ul.menu li .sub li.mega-hdr a.mega-hdr-a:hover {
+color: #000; 
+text-shadow: none;
+}
+
+
+/* Add the individual sub-menu backgrounds */
+.dcjq-mega-menu ul.menu li .sub li#menu-item-1 {
+background: url(images/bg_coupe.jpg) no-repeat 135px 40px;
+}
+.dcjq-mega-menu ul.menu li .sub li#menu-item-2 {
+background: url(images/bg_sedan.jpg) no-repeat 135px 40px;
+}
+.dcjq-mega-menu ul.menu li .sub li#menu-item-3 {
+background: url(images/bg_convert.jpg) no-repeat 135px 40px;
+}
+.dcjq-mega-menu ul.menu li .sub li#menu-item-4 {
+background: url(images/bg_suv.jpg) no-repeat 135px 40px;
+}
+.dcjq-mega-menu ul.menu li .sub li#menu-item-5 {
+background: url(images/bg_pickup.jpg) no-repeat 135px 40px;
+}
+.dcjq-mega-menu ul.menu li .sub li#menu-item-6 {
+background: url(images/bg_sports.jpg) no-repeat 135px 40px;
+}
+
+/* Style the 3rd level links */
+.dcjq-mega-menu ul.menu li .sub li ul li {
+margin-right: 90px;
+}
+.dcjq-mega-menu ul.menu .sub li.mega-hdr li a {
+color: #444;
+padding: 3px 0 3px 25px; 
+background: url(images/bullet.png) no-repeat 10px 8px; 
+}
+.dcjq-mega-menu ul.menu .sub li.mega-hdr li a:hover {
+color: #990000;
+text-decoration: underline;
+background-image: url(images/bullet_on.png); 
+}
+
+/* Styling for items with only 2 levels */
+.dcjq-mega-menu ul.menu li .sub-container.non-mega .sub {
+padding: 20px 20px 20px 10px;
+}
+.dcjq-mega-menu ul.menu li .sub-container.non-mega li {
+margin-top:0px;
+padding-top:0px;
+/* Set the drop down width */
+border-right: 5px solid #f7951a; 
+border-left: 5px solid #f7951a; 
+}
+.dcjq-mega-menu ul.menu li .sub-container.non-mega li a {
+padding: 0px; 
+background: url(images/bullet.png) no-repeat 5px 12px;
+}
+.dcjq-mega-menu ul.menu li .sub-container.non-mega li a:hover {
+color: #990000;
+    text-decoration: underline;
+background-image: url(images/bullet_on.png);
+}

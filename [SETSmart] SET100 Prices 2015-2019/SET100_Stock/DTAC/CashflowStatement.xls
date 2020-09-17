@@ -1,0 +1,15539 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+  <title>Financial Statement - Table</title>
+</head>
+<body>
+<div class="topic"><strong>Financial Statement</strong></div>
+
+
+
+
+<table  width="100%" border="0" cellspacing="0" cellpadding="4" class="queryfont">
+  <tr class="queryfont">
+   <td class="queryfont" width="80" valign="middle"><strong>Company</strong></td>
+   <td>DTAC</td>
+  </tr>
+  <tr class="queryfont">
+    <td class="queryfont"><strong>Comparison</strong></td>
+    <td>
+      
+        
+        Consecutive
+        
+      
+    </td>
+  </tr>
+  <tr class="queryfont">
+   <td class="queryfont"><strong>Accounting Type</strong></td>
+   <td>
+    
+     Company
+     
+     
+    
+   </td>
+  </tr>
+  <tr class="queryfont">
+   <td class="queryfont"><strong>Statement Type</strong></td>
+   <td>
+    
+     
+     Statement of Comprehensive Income
+     
+     
+    
+   </td>
+  </tr>
+  <tr class="queryfont">
+    <td class="queryfont"><strong>Period</strong></td>
+    <td width="550">
+      
+        Quarter 1
+        
+        
+        
+        
+        
+        
+      &nbsp;
+      2014
+      &nbsp;<strong>To</strong>&nbsp;
+      
+        
+          
+            
+            Quarter 2
+            
+            
+            
+            
+            
+          
+          &nbsp;
+        
+        
+      
+      &nbsp;2019
+    </td>
+  </tr>
+</table>
+<br/>
+<div align="center" class="info">
+
+
+
+</div>
+
+
+
+
+<table class="tfont" border="1" cellpadding="3" cellspacing="0" width="100%">
+  <tr bgcolor="#939393" valign="bottom" align="center">
+    <td style="color:white; background-color: #939393;font-weight: bold;" rowspan="2"><strong>Items</strong></td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    Quarter 2/2019
+    
+    
+    
+    
+    <br/>
+    (01/04/2019 - 30/06/2019)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    Quarter 1/2019
+    
+    
+    
+    
+    
+    <br/>
+    (01/01/2019 - 31/03/2019)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    
+    
+    
+      
+        Quarter 4
+        
+      /2018
+    
+    
+    
+    <br/>
+    (01/10/2018 - 31/12/2018)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    
+    Quarter 3/2018
+    
+    
+    
+    <br/>
+    (01/07/2018 - 30/09/2018)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    Quarter 2/2018
+    
+    
+    
+    
+    <br/>
+    (01/04/2018 - 30/06/2018)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    Quarter 1/2018
+    
+    
+    
+    
+    
+    <br/>
+    (01/01/2018 - 31/03/2018)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    
+    
+    
+      
+        Quarter 4
+        
+      /2017
+    
+    
+    
+    <br/>
+    (01/10/2017 - 31/12/2017)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    
+    Quarter 3/2017
+    
+    
+    
+    <br/>
+    (01/07/2017 - 30/09/2017)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    Quarter 2/2017
+    
+    
+    
+    
+    <br/>
+    (01/04/2017 - 30/06/2017)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    Quarter 1/2017
+    
+    
+    
+    
+    
+    <br/>
+    (01/01/2017 - 31/03/2017)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    
+    
+    
+      
+        Quarter 4
+        
+      /2016
+    
+    
+    
+    <br/>
+    (01/10/2016 - 31/12/2016)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    
+    Quarter 3/2016
+    
+    
+    
+    <br/>
+    (01/07/2016 - 30/09/2016)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    Quarter 2/2016
+    
+    
+    
+    
+    <br/>
+    (01/04/2016 - 30/06/2016)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    Quarter 1/2016
+    
+    
+    
+    
+    
+    <br/>
+    (01/01/2016 - 31/03/2016)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    
+    
+    
+      
+        Quarter 4
+        
+      /2015
+    
+    
+    
+    <br/>
+    (01/10/2015 - 31/12/2015)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    
+    Quarter 3/2015
+    
+    
+    
+    <br/>
+    (01/07/2015 - 30/09/2015)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    Quarter 2/2015
+    
+    
+    
+    
+    <br/>
+    (01/04/2015 - 30/06/2015)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    Quarter 1/2015
+    
+    
+    
+    
+    
+    <br/>
+    (01/01/2015 - 31/03/2015)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    
+    
+    
+      
+        Quarter 4
+        
+      /2014
+    
+    
+    
+    <br/>
+    (01/10/2014 - 31/12/2014)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    
+    Quarter 3/2014
+    
+    
+    
+    <br/>
+    (01/07/2014 - 30/09/2014)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    
+    Quarter 2/2014
+    
+    
+    
+    
+    <br/>
+    (01/04/2014 - 30/06/2014)
+    </td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" colspan="2" nowrap="nowrap">
+
+    
+    Quarter 1/2014
+    
+    
+    
+    
+    
+    <br/>
+    (01/01/2014 - 31/03/2014)
+    </td>
+  
+  </tr>
+  <tr valign="bottom" align="center">
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">'000 Baht</td>
+    <td style="color:white; background-color: #939393;font-weight: bold;" nowrap="nowrap">%Change</td>
+  
+  </tr>
+  
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left"><strong>
+    
+    
+    Income Statement
+    
+    </strong>
+    </td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+  </tr>
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     REVENUES FROM SALE OF GOODS AND RENDERING OF SERVICES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,188,264.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +26.08
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,115,015.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -25.75
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,542,107.15
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -16.00
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,597,618.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -6.11
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        7,026,912.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -33.69
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,596,660.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +0.73
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,519,711.50
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +8.55
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        9,691,509.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +84.60
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,250,064.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -51.46
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,815,006.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -14.77
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        12,688,740.41
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +20.22
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,554,633.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -11.88
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        11,977,064.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -11.68
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        13,560,921.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -7.51
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        14,662,018.33
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +22.62
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        11,957,002.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -15.19
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        14,098,476.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -8.27
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        15,369,783.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -22.33
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        19,789,342.92
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +24.63
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        15,878,676.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -15.84
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        18,867,705.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +8.06
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        17,459,957.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     REVENUES FROM SALES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        24,557.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +214.35
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        7,812.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -190.12
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        440,326.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -41.34
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        750,650.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -79.81
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,718,399.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +23.30
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,015,729.06
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +68.35
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,791,321.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -11.05
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,013,781.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -13.68
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,333,014.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -42.18
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,034,761.08
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +102.09
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,996,558.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -30.97
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,892,455.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -22.57
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,735,465.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -28.09
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,194,734.60
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +190.11
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,790,588.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -49.57
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,550,895.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -19.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,410,920.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -33.61
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,644,393.01
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +173.79
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,426,857.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -9.17
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,671,859.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -17.61
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,242,817.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     REVENUES FROM RENDERING OF SERVICES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,163,707.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +25.72
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,107,203.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -25.89
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,542,297.27
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -9.99
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,157,292.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -1.90
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,276,262.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -8.75
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,878,261.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -8.34
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        7,503,982.44
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -5.02
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        7,900,188.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +144.11
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,236,283.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -61.85
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        8,481,992.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -1.99
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        8,653,979.33
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +1.12
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        8,558,075.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -5.80
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        9,084,609.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -7.54
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        9,825,456.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +3.78
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        9,467,283.73
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -6.88
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,166,414.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.61
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,547,581.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.75
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,958,863.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -16.63
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        13,144,949.91
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -2.28
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        13,451,819.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -16.94
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        16,195,846.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +13.92
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        14,217,140.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     OTHER INCOME
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        65,928.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -97.68
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,846,419.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +108.82
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,363,102.19
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -9.97
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,513,974.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -44.54
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,729,950.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +86.29
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,465,419.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +18.35
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,238,222.47
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -26.08
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,675,011.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -66.00
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,925,980.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +367.95
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,052,668.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.88
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,095,182.90
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +2.43
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,069,171.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -5.90
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,136,222.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -9.75
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,258,997.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +97.31
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        638,067.17
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -53.40
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,369,236.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -22.17
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,759,188.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +14.20
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,540,462.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -30.39
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,212,849.35
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +145.78
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        900,337.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +288.02
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        232,034.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -88.14
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,956,867.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     INTEREST INCOME
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        37,226.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -27.84
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        51,591.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.49
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        53,457.39
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -35.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        82,874.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -53.08
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        176,647.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +19.15
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        148,250.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -8.09
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        161,300.10
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +3.48
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        155,876.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +2.96
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        151,398.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +8.59
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        139,422.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -2.34
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        142,756.57
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +2.73
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        138,959.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.47
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        143,949.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +12.64
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        127,790.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -19.52
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        158,785.98
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -9.43
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        175,313.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -10.26
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        195,352.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -0.63
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        196,583.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +9.00
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        180,345.91
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +6.20
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        169,810.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -9.03
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        186,662.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +43.47
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        130,109.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     GAIN ON FOREIGN CURRENCY EXCHANGE
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,431.49
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -34.31
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        9,790.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        17,201.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +49.38
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        11,514.75
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -2,638.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,835.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -84.04
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        42,815.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -131,786.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        144,518.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     REVERSAL IMPAIRMENT LOSS OF OTHER ASSETS
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,557.50
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        251,069.23
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     OTHER INCOMES - OTHERS
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        28,702.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -98.97
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,794,828.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +115.49
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,296,983.30
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -8.75
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,421,310.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -44.33
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,553,303.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +93.85
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,317,169.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +22.31
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,076,922.37
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -29.11
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,519,135.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -68.18
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,774,582.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +432.85
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        896,045.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -4.77
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        940,911.58
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +1.15
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        930,212.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -5.60
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        985,438.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -9.46
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,088,392.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +127.09
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        479,281.19
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -59.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,193,923.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -23.65
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,563,836.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +30.39
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,199,361.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +16.64
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,028,226.51
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +40.75
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        730,527.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +1,510.08
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        45,372.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -97.52
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,826,758.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     TOTAL REVENUES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,254,192.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -24.52
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,961,434.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +0.81
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,905,209.34
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -14.87
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        8,111,592.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -16.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        9,756,862.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -19.11
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        12,062,079.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +2.59
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        11,757,933.96
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +3.44
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        11,366,520.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.70
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,176,044.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -14.25
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        11,867,674.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -13.90
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        13,783,923.31
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +18.58
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        11,623,804.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -11.36
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        13,113,286.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -11.52
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        14,819,918.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.14
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        15,300,085.50
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +14.81
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        13,326,238.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -15.96
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        15,857,664.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -6.22
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        16,910,245.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -23.14
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        22,002,192.27
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +31.13
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        16,779,013.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -12.15
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        19,099,739.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -1.63
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        19,416,824.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     COST OF SALE OF GOODS AND RENDERING OF SERVICES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        665,863.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +3.14
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        645,616.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -67.09
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,962,036.10
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -57.17
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,580,788.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +0.84
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,542,656.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -38.53
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        7,389,898.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -7.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        8,020,332.88
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +15.13
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,966,181.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -1.82
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        7,095,417.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -4.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        7,458,117.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -23.81
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        9,789,405.63
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +30.44
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        7,504,672.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -15.90
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        8,923,670.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -2.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        9,186,000.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -16.79
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        11,038,988.82
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +53.00
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        7,215,201.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -28.47
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,087,064.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -12.04
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        11,467,161.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -19.97
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        14,329,408.10
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +40.11
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,227,117.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -5.82
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,858,685.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -10.97
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        12,196,006.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     COST OF GOODS SOLD
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        21,424.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +544.91
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,322.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -23,812.90
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        447,945.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -41.93
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        771,325.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -76.51
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,283,500.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +15.00
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,855,140.23
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +72.88
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,651,497.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -17.52
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,002,407.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -1.98
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,042,876.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -43.97
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,646,076.51
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +132.26
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,569,806.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -44.29
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,817,807.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -12.65
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,225,806.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -34.49
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,924,209.59
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +283.05
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,285,524.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -67.24
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,923,815.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -24.65
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,207,628.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -24.87
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,931,905.69
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +140.17
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,886,242.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +2.71
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,809,955.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -13.28
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,240,078.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     COST OF RENDERING OF SERVICES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        644,439.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +0.33
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        642,294.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -67.66
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,985,849.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -51.95
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,132,843.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +9.59
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,771,331.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -8.16
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,106,398.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -20.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,165,192.65
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -2.81
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,314,684.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +4.35
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,093,010.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -5.95
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,415,241.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -11.85
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,143,329.12
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +3.51
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,934,866.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -2.80
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,105,863.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +2.44
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,960,194.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -2.53
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,114,779.23
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +3.12
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,929,677.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.79
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,163,249.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -1.54
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,259,533.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -15.38
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        7,397,502.41
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +0.77
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        7,340,875.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -8.79
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        8,048,730.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -10.13
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        8,955,928.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     SELLING AND ADMINISTRATIVE EXPENSES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,917,247.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -13.09
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,206,123.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -79.04
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,525,705.26
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +365.43
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,261,484.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -7.28
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,438,980.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -5.65
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,585,022.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -13.57
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,991,016.63
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +20.04
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,491,699.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -2.81
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,563,758.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -10.88
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,876,883.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -16.56
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,447,960.65
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +7.77
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,199,330.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -14.68
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,749,867.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +6.88
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,508,396.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +3.13
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,401,924.85
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +6.74
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,187,119.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +10.83
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,875,680.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +4.01
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,764,859.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -20.82
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,492,020.59
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +24.45
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,805,871.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -4.67
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,943,242.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +1.45
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,901,189.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     SELLING EXPENSES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        446,155.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -2.22
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        456,280.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -55.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,033,736.92
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +50.36
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        687,510.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -5.40
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        726,728.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +0.08
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        726,166.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -16.80
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        872,769.83
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +18.14
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        738,769.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +18.08
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        625,660.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -34.83
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        960,029.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -29.38
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,359,520.53
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +8.64
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,251,435.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -13.36
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,444,470.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +2.73
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,406,081.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +5.65
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,330,859.37
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +29.31
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,029,203.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +0.56
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,023,434.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +20.04
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        852,571.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -41.08
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,446,921.86
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +37.94
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,048,988.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +13.20
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        926,678.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -0.47
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        931,085.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     ADMINISTRATIVE EXPENSES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,471,092.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -15.93
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,749,843.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -81.57
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        9,491,968.34
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +503.06
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,573,974.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -8.08
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,712,252.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -7.89
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,858,856.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -12.25
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,118,246.80
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +20.84
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,752,930.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -9.55
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,938,098.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +1.11
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,916,854.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -8.22
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,088,440.12
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +7.22
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,947,895.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -15.51
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,305,397.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +9.66
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,102,315.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +1.51
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,071,065.48
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -4.02
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,157,916.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +16.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,852,246.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.14
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,912,288.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -6.49
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,045,098.74
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +16.40
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,756,883.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -12.88
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,016,564.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +2.36
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,970,104.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     OTHER EXPENSES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        75,275.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +1,693.12
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,198.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -9,790.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,857.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -77.71
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        8,330.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -99.76
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,462,619.06
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +70,536.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,902.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -77.65
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        21,931.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,184,824.92
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +196,443.78
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,638.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -53,745.53
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        237,556.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +80.26
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        131,786.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -32,008.76
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        23,895.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -64.34
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        67,014.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +341.29
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        15,186.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     LOSS ON FOREIGN CURRENCY EXCHANGE
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,434.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +53.26
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,198.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -9,790.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,857.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -77.71
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        8,330.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +122.60
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,742.13
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -23.66
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,902.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -77.65
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        21,931.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,638.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -53,745.53
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        237,556.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +80.26
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        131,786.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -32,008.76
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        23,895.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -64.34
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        67,014.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +341.29
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        15,186.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     IMPAIRMENT LOSS OF OTHER ASSETS
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        68,841.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        864,719.23
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,296,206.23
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     TOTAL EXPENSES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,658,385.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -6.92
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,855,937.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -77.13
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        12,487,344.36
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +82.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,842,272.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -2.02
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        6,983,493.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -30.05
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        9,983,250.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -31.03
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        14,473,968.56
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +52.96
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        9,462,782.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -2.26
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        9,681,106.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -6.33
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,335,000.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -43.90
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        18,422,191.20
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +72.06
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,706,640.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -15.52
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        12,673,537.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -0.16
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        12,694,396.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -11.77
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        14,387,168.14
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +35.22
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        10,639,876.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -18.75
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        13,094,530.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -7.99
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        14,232,020.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -20.00
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        17,789,419.93
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +36.25
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        13,056,883.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -5.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        13,868,941.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -8.23
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        15,112,381.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     PROFIT (LOSS) BEFORE FINANCE COSTS AND INCOME TAX EXPENSES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,595,807.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -36.77
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,105,497.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -5,582,135.02
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,269,320.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -54.23
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,773,369.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +33.41
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,078,829.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -2,716,034.60
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,903,738.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +284.64
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        494,938.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -67.71
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,532,674.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -4,638,267.89
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        917,164.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +108.57
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        439,749.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -79.31
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,125,522.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +132.83
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        912,917.35
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -66.02
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,686,362.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -2.78
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,763,134.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +3.17
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,678,225.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -36.43
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,212,772.35
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +13.18
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,722,130.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -28.84
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,230,798.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +21.52
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,304,443.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     FINANCE COSTS
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        4,638.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -8.77
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,084.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -98.68
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        384,764.40
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +308.45
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        94,201.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -53.28
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        201,639.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -338,355.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        198,686.32
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -8.47
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        217,078.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -11.91
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        246,420.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +6.20
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        232,037.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -1.14
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        234,716.68
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -6.01
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        249,724.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -12.88
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        286,641.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.18
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        296,058.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +26.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        233,378.82
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -7.78
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        253,062.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -9.80
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        280,553.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +0.61
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        278,852.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +14.97
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        242,550.63
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.51
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        251,375.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -11.27
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        283,309.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.53
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        293,689.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     INCOME TAX EXPENSES
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        515,623.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +127.52
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        226,625.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -1,443,997.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -53,103.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -4,620.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        215,412.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -791,502.31
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        38,570.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -105,961.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        87,887.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -1,122,471.68
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -36,418.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -174,584.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        162,917.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +323.69
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        38,452.13
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -87.43
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        305,940.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +160.56
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        117,415.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -57.79
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        278,177.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -1,539,739.79
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -364,548.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        975,171.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +117.68
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        447,988.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     NET PROFIT (LOSS)
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,075,546.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -46.42
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,873,788.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -4,522,902.41
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,228,222.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -52.33
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,576,350.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +17.01
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,201,772.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -2,123,218.61
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,648,090.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +364.93
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        354,479.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -70.77
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,212,750.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -3,750,512.88
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        703,858.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +114.79
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        327,692.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -80.34
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,666,547.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +159.96
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        641,086.40
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -69.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,127,360.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -10.05
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,365,166.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,121,196.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -61.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,509,961.51
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +43.66
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,835,303.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.45
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,972,318.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,562,766.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     PROFIT (LOSS) ATTRIBUTABLE TO EQUITY HOLDERS OF THE PARENT
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,075,546.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -46.42
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,873,788.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -4,522,902.41
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,228,222.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -52.33
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,576,350.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +17.01
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,201,772.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -2,123,218.61
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,648,090.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +364.93
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        354,479.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -70.77
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,212,750.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -3,750,512.88
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        703,858.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +114.79
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        327,692.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -80.34
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,666,547.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +159.96
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        641,086.40
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -69.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,127,360.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -10.05
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,365,166.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,121,196.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -61.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,509,961.51
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +43.66
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,835,303.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.45
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,972,318.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,562,766.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     BASIC EARNINGS PER SHARE (UNIT : BAHT)
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.87657
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -46.42
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        1.63602
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        -1.91017
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.51872
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -52.33
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        1.08807
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +17.01
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.92988
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        -0.8967
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.69604
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +364.93
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.14971
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -70.77
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.51218
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        -1.58396
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.29726
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +114.80
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.13839
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -80.34
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.70383
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +159.96
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.27075
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -69.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.89845
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -10.05
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.99888
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        0.89585
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -61.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        2.32702
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +43.66
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        1.61977
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.45
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        1.67763
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.49
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+        1.50467
+    
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left"><strong>
+    
+    Other Comprehensive Income Statement
+    
+    
+    </strong>
+    </td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+    <td class="table">&nbsp;</td>
+    <td>&nbsp;</td>
+  
+  </tr>
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     NET PROFIT (LOSS)
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,075,546.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -46.42
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,873,788.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -4,522,902.41
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,228,222.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -52.33
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,576,350.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +17.01
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,201,772.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -2,123,218.61
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,648,090.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +364.93
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        354,479.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -70.77
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,212,750.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -3,750,512.88
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        703,858.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +114.79
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        327,692.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -80.34
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,666,547.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +159.96
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        641,086.40
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -69.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,127,360.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -10.05
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,365,166.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,121,196.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -61.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,509,961.51
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +43.66
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,835,303.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.45
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,972,318.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,562,766.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     ACTUARIAL GAINS (LOSSES) ON EMPLOYEE BENEFIT PLANS
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,799.47
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -21,815.13
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -3,310.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        15,682.93
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -5,311.48
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -11,265.01
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     
+     TOTAL OTHER COMPREHENSIVE INCOME
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,075,546.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -46.42
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,873,788.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -4,499,704.55
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,228,222.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -52.33
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,576,350.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +17.01
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,201,772.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -2,145,033.74
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,648,090.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +364.93
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        354,479.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -70.69
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,209,440.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -3,687,781.18
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        703,858.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +114.79
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        327,692.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -80.34
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,666,547.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +168.87
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        619,840.48
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -70.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,127,360.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -10.05
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,365,166.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,121,196.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -61.19
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,464,901.45
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +42.49
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,835,303.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.45
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,972,318.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,562,766.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+  
+  <tr valign="middle" align="right">
+    <td class="table lefttable" align="left">
+     &nbsp;&nbsp;
+     TOTAL COMPREHENSIVE INCOME ATTRIBUTABLE TO EQUITY HOLDERS OF THE PARENT
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,075,546.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -46.42
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,873,788.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -4,499,704.55
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,228,222.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -52.33
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,576,350.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +17.01
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,201,772.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -2,145,033.74
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,648,090.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +364.93
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        354,479.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -70.69
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,209,440.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        -3,687,781.18
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        703,858.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +114.79
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        327,692.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -80.34
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        1,666,547.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +168.87
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        619,840.48
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -70.86
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,127,360.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -10.05
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,365,166.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        2,121,196.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -61.19
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        5,464,901.45
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +42.49
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,835,303.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -3.45
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,972,318.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      +11.50
+      
+    
+    </td>
+  
+    
+    
+      
+      
+      
+    
+    <td class="table" nowrap="nowrap">
+    
+    
+    
+        3,562,766.00
+    
+    
+    </td>
+    <td nowrap="nowrap">
+    
+      
+      
+      -
+      
+    
+    </td>
+  
+  </tr>
+ 
+</table>
+<br/>
+<table class="tfont" cellpadding="3" cellspacing="0" border="0" width="100%">
+
+<tr>
+  <td class="remark" style="white-space: nowrap;">Note to F/S for Original Statement:
+  
+    
+    30/06/2019
+    
+  
+     | 
+    31/03/2019
+    
+  
+     | 
+    31/12/2018
+    
+  
+     | 
+    30/09/2018
+    
+  
+     | 
+    30/06/2018
+    
+  
+     | 
+    31/03/2018
+    
+  
+     | 
+    31/12/2017
+    
+  
+     | 
+    30/09/2017
+    
+  
+     | 
+    30/06/2017
+    
+  
+     | 
+    31/03/2017
+    
+  
+     | 
+    31/12/2016
+    
+  
+     | 
+    30/09/2016
+    
+  
+     | 
+    30/06/2016
+    
+  
+     | 
+    31/03/2016
+    
+  
+     | 
+    31/12/2015
+    
+  
+     | 
+    30/09/2015
+    
+  
+     | 
+    30/06/2015
+    
+  
+     | 
+    31/03/2015
+    
+  
+     | 
+    31/12/2014
+    
+  
+     | 
+    30/09/2014
+    
+  
+     | 
+    30/06/2014
+    
+  
+     | 
+    31/03/2014
+    
+  
+  </td>
+</tr>
+<tr>
+  <td class="remark"><u>Remark</u></td>
+</tr>
+
+<tr>
+  <td class="remark" style="white-space: nowrap;">Information on the financial statements is presented according to the information that the listed companies submit on that period. The investors should study additional information from the companies' financial statements since some companies may restate the comparing financial statements on the latest financial statements.</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
+

@@ -1,0 +1,1403 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <title>Market Statistics</title>
+</head>
+<body>
+<div style="font: bold 10pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;">Market Statistics</div>
+<br/>
+
+
+<table border="0" cellpadding="4" cellspacing="0">
+    <tr>
+        <td style="background-color: #efefef;font: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;" width="100">Market:&nbsp;</td>
+        <td style="background-color: #efefef;font: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;" align="left" colspan="6">
+            
+                SET
+                
+                
+            
+        </td>
+    </tr>
+    <tr>
+        <td style="background-color: #efefef;font: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;">Period</td>
+        <td style="background-color: #efefef;font: bold 8pt Tahoma, MS Sans Serif, Microsoft Sans Serif, Verdana, AngsanaUPC, CordiaUPC;" colspan="6">
+            2014
+            &nbsp;To&nbsp;
+            2019
+        </td>
+    </tr>
+</table>
+
+<br/>
+
+
+<table border="0" cellpadding="3" cellspacing="0" width="100%">
+    <tr align="center" valign="middle">
+        <td style="background-color: #939393; color: #FFFFFF;font-style: normal;font-weight: bold;" align="left" colspan="2" width="320">(As of 09/10/2019)</td>
+    
+        <td style="background-color: #939393; color: #FFFFFF;font-style: normal;font-weight: bold;" width="80">2014</td>
+    
+        <td style="background-color: #939393; color: #FFFFFF;font-style: normal;font-weight: bold;" width="80">2015</td>
+    
+        <td style="background-color: #939393; color: #FFFFFF;font-style: normal;font-weight: bold;" width="80">2016</td>
+    
+        <td style="background-color: #939393; color: #FFFFFF;font-style: normal;font-weight: bold;" width="80">2017</td>
+    
+        <td style="background-color: #939393; color: #FFFFFF;font-style: normal;font-weight: bold;" width="80">2018</td>
+    
+        <td style="background-color: #939393; color: #FFFFFF;font-style: normal;font-weight: bold;" width="80">2019</td>
+    
+    </tr>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <tr valign="top" height="20">
+        <td colspan="2" style="background-color: #f4f4f4; font-weight: bold; text-decoration: underline;">
+            Market Data of SET
+        </td>
+    
+        <td style="background-color: #FFFFFF; font-weight: bold; text-decoration: underline;">&nbsp;</td>
+    
+        <td style="background-color: #FFFFFF; font-weight: bold; text-decoration: underline;">&nbsp;</td>
+    
+        <td style="background-color: #FFFFFF; font-weight: bold; text-decoration: underline;">&nbsp;</td>
+    
+        <td style="background-color: #FFFFFF; font-weight: bold; text-decoration: underline;">&nbsp;</td>
+    
+        <td style="background-color: #FFFFFF; font-weight: bold; text-decoration: underline;">&nbsp;</td>
+    
+        <td style="background-color: #FFFFFF; font-weight: bold; text-decoration: underline;">&nbsp;</td>
+    
+    </tr>
+    
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">SET Index</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+    </tr>
+    <tr>
+        <td width="30" style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td width="200" style="background-color: #f4f4f4;"> - Close </td>
+    
+        <td align="right"> 1,497.67</td>
+    
+        <td align="right"> 1,288.02</td>
+    
+        <td align="right"> 1,542.94</td>
+    
+        <td align="right"> 1,753.71</td>
+    
+        <td align="right"> 1,563.88</td>
+    
+        <td align="right"> 1,616.18</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - High </td>
+    
+        <td align="right"> 1,600.16</td>
+    
+        <td align="right"> 1,615.89</td>
+    
+        <td align="right"> 1,552.64</td>
+    
+        <td align="right"> 1,753.71</td>
+    
+        <td align="right"> 1,838.96</td>
+    
+        <td align="right"> 1,740.91</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - Low </td>
+    
+        <td align="right"> 1,224.62</td>
+    
+        <td align="right"> 1,261.66</td>
+    
+        <td align="right"> 1,224.83</td>
+    
+        <td align="right"> 1,535.51</td>
+    
+        <td align="right"> 1,548.37</td>
+    
+        <td align="right"> 1,560.03</td>
+    
+    </tr>
+    
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">SET50 Index</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+    </tr>
+    <tr>
+        <td width="30" style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td width="200" style="background-color: #f4f4f4;"> - Close </td>
+    
+        <td align="right"> 1,001.01</td>
+    
+        <td align="right"> 813.55</td>
+    
+        <td align="right"> 964.84</td>
+    
+        <td align="right"> 1,135.14</td>
+    
+        <td align="right"> 1,044.92</td>
+    
+        <td align="right"> 1,076.56</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - High </td>
+    
+        <td align="right"> 1,074.80</td>
+    
+        <td align="right"> 1,074.39</td>
+    
+        <td align="right"> 990.71</td>
+    
+        <td align="right"> 1,136.92</td>
+    
+        <td align="right"> 1,206.31</td>
+    
+        <td align="right"> 1,159.79</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - Low </td>
+    
+        <td align="right"> 829.89</td>
+    
+        <td align="right"> 801.81</td>
+    
+        <td align="right"> 761.75</td>
+    
+        <td align="right"> 969.19</td>
+    
+        <td align="right"> 1,033.81</td>
+    
+        <td align="right"> 1,041.49</td>
+    
+    </tr>
+    
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">SET100 Index</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+    </tr>
+    <tr>
+        <td width="30" style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td width="200" style="background-color: #f4f4f4;"> - Close </td>
+    
+        <td align="right"> 2,212.63</td>
+    
+        <td align="right"> 1,821.66</td>
+    
+        <td align="right"> 2,178.19</td>
+    
+        <td align="right"> 2,543.08</td>
+    
+        <td align="right"> 2,293.11</td>
+    
+        <td align="right"> 2,370.90</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - High </td>
+    
+        <td align="right"> 2,375.29</td>
+    
+        <td align="right"> 2,382.15</td>
+    
+        <td align="right"> 2,219.43</td>
+    
+        <td align="right"> 2,545.45</td>
+    
+        <td align="right"> 2,677.39</td>
+    
+        <td align="right"> 2,564.91</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - Low </td>
+    
+        <td align="right"> 1,814.62</td>
+    
+        <td align="right"> 1,789.59</td>
+    
+        <td align="right"> 1,713.68</td>
+    
+        <td align="right"> 2,190.42</td>
+    
+        <td align="right"> 2,269.94</td>
+    
+        <td align="right"> 2,286.56</td>
+    
+    </tr>
+    
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">sSET Index</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+    </tr>
+    <tr>
+        <td width="30" style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td width="200" style="background-color: #f4f4f4;"> - Close </td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> 1,073.76</td>
+    
+        <td align="right"> 730.50</td>
+    
+        <td align="right"> 727.09</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - High </td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> 1,139.18</td>
+    
+        <td align="right"> 1,087.90</td>
+    
+        <td align="right"> 828.55</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - Low </td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> 968.60</td>
+    
+        <td align="right"> 728.23</td>
+    
+        <td align="right"> 725.12</td>
+    
+    </tr>
+    
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">SETCLMV Index</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+    </tr>
+    <tr>
+        <td width="30" style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td width="200" style="background-color: #f4f4f4;"> - Close </td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> 941.89</td>
+    
+        <td align="right"> 1,010.51</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - High </td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> 1,133.84</td>
+    
+        <td align="right"> 1,116.10</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - Low </td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> 936.15</td>
+    
+        <td align="right"> 939.53</td>
+    
+    </tr>
+    
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">SETHD Index</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+    </tr>
+    <tr>
+        <td width="30" style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td width="200" style="background-color: #f4f4f4;"> - Close </td>
+    
+        <td align="right"> 1,147.66</td>
+    
+        <td align="right"> 933.71</td>
+    
+        <td align="right"> 1,144.14</td>
+    
+        <td align="right"> 1,268.76</td>
+    
+        <td align="right"> 1,175.47</td>
+    
+        <td align="right"> 1,146.53</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - High </td>
+    
+        <td align="right"> 1,289.77</td>
+    
+        <td align="right"> 1,240.69</td>
+    
+        <td align="right"> 1,194.74</td>
+    
+        <td align="right"> 1,279.47</td>
+    
+        <td align="right"> 1,381.38</td>
+    
+        <td align="right"> 1,271.10</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - Low </td>
+    
+        <td align="right"> 1,016.91</td>
+    
+        <td align="right"> 901.79</td>
+    
+        <td align="right"> 850.94</td>
+    
+        <td align="right"> 1,158.90</td>
+    
+        <td align="right"> 1,165.34</td>
+    
+        <td align="right"> 1,142.37</td>
+    
+    </tr>
+    
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">SETTHSI Index</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+    </tr>
+    <tr>
+        <td width="30" style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td width="200" style="background-color: #f4f4f4;"> - Close </td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> 1,003.08</td>
+    
+        <td align="right"> 997.16</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - High </td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> 1,116.26</td>
+    
+        <td align="right"> 1,112.43</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - Low </td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> 993.38</td>
+    
+        <td align="right"> 987.94</td>
+    
+    </tr>
+    
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">SETWB Index</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+    </tr>
+    <tr>
+        <td width="30" style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td width="200" style="background-color: #f4f4f4;"> - Close </td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> 1,006.85</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - High </td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> 1,079.74</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - Low </td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> -</td>
+    
+        <td align="right"> 992.16</td>
+    
+    </tr>
+    
+    
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Market Dividend Yield (%)<sup>4/</sup></td>
+    
+        <td align="right">2.94</td>
+    
+        <td align="right">3.36</td>
+    
+        <td align="right">3.04</td>
+    
+        <td align="right">2.70</td>
+    
+        <td align="right">3.22</td>
+    
+        <td align="right">3.12</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Market P/E Ratio<sup>3,4/</sup></td>
+    
+        <td align="right">17.81</td>
+    
+        <td align="right">22.57</td>
+    
+        <td align="right">18.55</td>
+    
+        <td align="right">19.06</td>
+    
+        <td align="right">14.75</td>
+    
+        <td align="right">18.46</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Market P/BV<sup>4/</sup></td>
+    
+        <td align="right">2.13</td>
+    
+        <td align="right">1.74</td>
+    
+        <td align="right">1.96</td>
+    
+        <td align="right">2.13</td>
+    
+        <td align="right">1.78</td>
+    
+        <td align="right">1.81</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Total Turnover<sup>1/</sup></td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - Volume (M.Share)</td>
+    
+        <td align="right">2,771,230.14</td>
+    
+        <td align="right">2,487,472.68</td>
+    
+        <td align="right">2,670,287.19</td>
+    
+        <td align="right">2,296,431.62</td>
+    
+        <td align="right">3,086,113.45</td>
+    
+        <td align="right">2,946,158.84</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - Value (M.Baht)</td>
+    
+        <td align="right">10,193,179.07</td>
+    
+        <td align="right">9,997,371.75</td>
+    
+        <td align="right">12,259,772.49</td>
+    
+        <td align="right">11,652,311.48</td>
+    
+        <td align="right">13,820,219.77</td>
+    
+        <td align="right">10,016,952.41</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Daily Average Turnover<sup>1/</sup></td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+        <td>&nbsp;</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - Volume (M.Share)</td>
+    
+        <td align="right">11,311.14</td>
+    
+        <td align="right">10,236.51</td>
+    
+        <td align="right">10,943.80</td>
+    
+        <td align="right">9,411.60</td>
+    
+        <td align="right">12,596.38</td>
+    
+        <td align="right">15,506.10</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;"> &nbsp; </td>
+        <td style="background-color: #f4f4f4;"> - Value (M.Baht)</td>
+    
+        <td align="right">41,604.81</td>
+    
+        <td align="right">41,141.45</td>
+    
+        <td align="right">50,244.97</td>
+    
+        <td align="right">47,755.37</td>
+    
+        <td align="right">56,409.06</td>
+    
+        <td align="right">52,720.80</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Number of Transaction Deals (Deals)</td>
+    
+        <td align="right">78,794,503</td>
+    
+        <td align="right">87,879,233</td>
+    
+        <td align="right">98,287,916</td>
+    
+        <td align="right">90,213,071</td>
+    
+        <td align="right">101,153,207</td>
+    
+        <td align="right">72,748,209</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Daily Average Transaction Deals (Deals)</td>
+    
+        <td align="right">321,610</td>
+    
+        <td align="right">361,642</td>
+    
+        <td align="right">402,819</td>
+    
+        <td align="right">369,725</td>
+    
+        <td align="right">412,870</td>
+    
+        <td align="right">382,885</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Newly Listed Companies</td>
+    
+        <td align="right">17</td>
+    
+        <td align="right">23</td>
+    
+        <td align="right">11</td>
+    
+        <td align="right">22</td>
+    
+        <td align="right">8</td>
+    
+        <td align="right">6</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Delisted Listed Companies</td>
+    
+        <td align="right">7</td>
+    
+        <td align="right">9</td>
+    
+        <td align="right">8</td>
+    
+        <td align="right">7</td>
+    
+        <td align="right">3</td>
+    
+        <td align="right">7</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">
+            
+                No. of Companies moved from mai to SET
+                
+            
+        </td>
+    
+        <td align="right">4</td>
+    
+        <td align="right">3</td>
+    
+        <td align="right">1</td>
+    
+        <td align="right">2</td>
+    
+        <td align="right">2</td>
+    
+        <td align="right">4</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">
+            
+                No. of Companies moved from SET to mai
+                
+            
+        </td>
+    
+        <td align="right">1</td>
+    
+        <td align="right">1</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">1</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Number of Listed Companies</td>
+    
+        <td align="right">502</td>
+    
+        <td align="right">517</td>
+    
+        <td align="right">522</td>
+    
+        <td align="right">538</td>
+    
+        <td align="right">545</td>
+    
+        <td align="right">548</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Number of Listed Securities</td>
+    
+        <td align="right">1,536</td>
+    
+        <td align="right">1,646</td>
+    
+        <td align="right">1,838</td>
+    
+        <td align="right">2,052</td>
+    
+        <td align="right">2,296</td>
+    
+        <td align="right">2,602</td>
+    
+    </tr>
+    
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Common Shares</td>
+    
+        <td align="right">560</td>
+    
+        <td align="right">582</td>
+    
+        <td align="right">589</td>
+    
+        <td align="right">601</td>
+    
+        <td align="right">611</td>
+    
+        <td align="right">617</td>
+    
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Preferred Shares</td>
+    
+        <td align="right">9</td>
+    
+        <td align="right">9</td>
+    
+        <td align="right">9</td>
+    
+        <td align="right">8</td>
+    
+        <td align="right">9</td>
+    
+        <td align="right">8</td>
+    
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Warrants</td>
+    
+        <td align="right">74</td>
+    
+        <td align="right">104</td>
+    
+        <td align="right">101</td>
+    
+        <td align="right">101</td>
+    
+        <td align="right">92</td>
+    
+        <td align="right">83</td>
+    
+    </tr>
+    
+    
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Derivative Warrants</td>
+    
+        <td align="right">870</td>
+    
+        <td align="right">928</td>
+    
+        <td align="right">1,122</td>
+    
+        <td align="right">1,324</td>
+    
+        <td align="right">1,564</td>
+    
+        <td align="right">1,873</td>
+    
+    </tr>
+    
+    
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - ETFs</td>
+    
+        <td align="right">21</td>
+    
+        <td align="right">21</td>
+    
+        <td align="right">15</td>
+    
+        <td align="right">16</td>
+    
+        <td align="right">17</td>
+    
+        <td align="right">17</td>
+    
+    </tr>
+    
+    
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Depositary Receipts</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">1</td>
+    
+        <td align="right">1</td>
+    
+    </tr>
+    
+    
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Unit Trusts</td>
+    
+        <td align="right">2</td>
+    
+        <td align="right">2</td>
+    
+        <td align="right">2</td>
+    
+        <td align="right">2</td>
+    
+        <td align="right">2</td>
+    
+        <td align="right">2</td>
+    
+    </tr>
+    
+    
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Transferable Subscription Right</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">1</td>
+    
+    </tr>
+    
+    
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Turnover by Type of Securities</td>
+    
+        <td align="right">&nbsp;</td>
+    
+        <td align="right">&nbsp;</td>
+    
+        <td align="right">&nbsp;</td>
+    
+        <td align="right">&nbsp;</td>
+    
+        <td align="right">&nbsp;</td>
+    
+        <td align="right">&nbsp;</td>
+    
+    </tr>
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Common Shares (M.Baht)</td>
+    
+        <td align="right">9,426,831.56</td>
+    
+        <td align="right">9,150,600.52</td>
+    
+        <td align="right">11,119,824.47</td>
+    
+        <td align="right">10,679,263.40</td>
+    
+        <td align="right">12,467,623.24</td>
+    
+        <td align="right">8,592,578.07</td>
+    
+    </tr>
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Common Foreign Shares (M.Baht)</td>
+    
+        <td align="right">299,370.83</td>
+    
+        <td align="right">297,314.55</td>
+    
+        <td align="right">290,421.82</td>
+    
+        <td align="right">216,454.31</td>
+    
+        <td align="right">260,813.88</td>
+    
+        <td align="right">183,931.29</td>
+    
+    </tr>
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Preferred Shares (M.Baht)</td>
+    
+        <td align="right">9.43</td>
+    
+        <td align="right">11.58</td>
+    
+        <td align="right">3.53</td>
+    
+        <td align="right">2.07</td>
+    
+        <td align="right">1,313.92</td>
+    
+        <td align="right">365.93</td>
+    
+    </tr>
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Preferred Foreign Shares (M.Baht)</td>
+    
+        <td align="right">0.02</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">288.08</td>
+    
+        <td align="right">-</td>
+    
+    </tr>
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Warrants (M.Baht)</td>
+    
+        <td align="right">257,755.07</td>
+    
+        <td align="right">208,707.96</td>
+    
+        <td align="right">187,658.35</td>
+    
+        <td align="right">180,161.80</td>
+    
+        <td align="right">85,717.75</td>
+    
+        <td align="right">103,147.58</td>
+    
+    </tr>
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Derivative Warrants (M.Baht)</td>
+    
+        <td align="right">201,136.76</td>
+    
+        <td align="right">334,615.25</td>
+    
+        <td align="right">652,844.84</td>
+    
+        <td align="right">573,349.47</td>
+    
+        <td align="right">998,720.06</td>
+    
+        <td align="right">1,130,769.78</td>
+    
+    </tr>
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - ETFs (M.Baht)</td>
+    
+        <td align="right">4,453.75</td>
+    
+        <td align="right">5,433.21</td>
+    
+        <td align="right">6,505.38</td>
+    
+        <td align="right">3,079.28</td>
+    
+        <td align="right">5,692.16</td>
+    
+        <td align="right">4,590.06</td>
+    
+    </tr>
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Depositary Receipts (M.Baht)</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">50.21</td>
+    
+        <td align="right">1,351.97</td>
+    
+    </tr>
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Unit Trusts (M.Baht)</td>
+    
+        <td align="right">1.28</td>
+    
+        <td align="right">1.89</td>
+    
+        <td align="right">0.96</td>
+    
+        <td align="right">1.15</td>
+    
+        <td align="right">0.46</td>
+    
+        <td align="right">5.77</td>
+    
+    </tr>
+    
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Transferable Subscription Right (M.Baht)</td>
+    
+        <td align="right">200.39</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">2,513.14</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">-</td>
+    
+        <td align="right">171.42</td>
+    
+    </tr>
+    
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Total Capitalization <sup>2,4/</sup></td>
+    
+        <td align="right">&nbsp;</td>
+    
+        <td align="right">&nbsp;</td>
+    
+        <td align="right">&nbsp;</td>
+    
+        <td align="right">&nbsp;</td>
+    
+        <td align="right">&nbsp;</td>
+    
+        <td align="right">&nbsp;</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Par Value (M.Baht)</td>
+    
+        <td align="right">2,771,761.65</td>
+    
+        <td align="right">3,009,960.15</td>
+    
+        <td align="right">3,110,781.77</td>
+    
+        <td align="right">3,160,277.48</td>
+    
+        <td align="right">3,679,869.19</td>
+    
+        <td align="right">2,782,171.35</td>
+    
+    </tr>
+    <tr>
+        <td style="background-color: #f4f4f4;">&nbsp;</td>
+        <td style="background-color: #f4f4f4;"> - Market Value (M.Baht)</td>
+    
+        <td align="right">13,856,283.31</td>
+    
+        <td align="right">12,282,754.70</td>
+    
+        <td align="right">15,079,272.11</td>
+    
+        <td align="right">17,587,433.31</td>
+    
+        <td align="right">15,978,251.87</td>
+    
+        <td align="right">16,700,193.85</td>
+    
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #f4f4f4;">Total Number of Trading Days</td>
+        
+            <td align="right">245</td>
+        
+            <td align="right">243</td>
+        
+            <td align="right">244</td>
+        
+            <td align="right">244</td>
+        
+            <td align="right">245</td>
+        
+            <td align="right">190</td>
+        
+    </tr>
+
+
+
+</table>
+
+<br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+     <tr valign="top">
+        <td nowrap="nowrap" style="text-decoration: underline;" width="40">Note</td>
+        <td nowrap="nowrap" colspan="6">&nbsp;</td>
+    </tr>
+    <tr valign="top">
+        <td>&nbsp;</td>
+        <td colspan="6"><sup>1/</sup> Excluding Debentures and Convertible Debentures</td>
+    </tr>
+    <tr valign="top">
+        <td>&nbsp;</td>
+        <td nowrap="nowrap" colspan="6"><sup>2/</sup> Excluding Depositary Receipts, Unit Trusts,Derivative Warrants, Debentures and Convertible Debentures</td>
+    </tr>
+    <tr valign="top">
+        <td>&nbsp;</td>
+        <td nowrap="nowrap" colspan="6"><sup>3/</sup> Property Fund Sector excluded from calculation. (effective 31 March 2009 onwards)</td>
+    </tr>
+    <tr valign="top">
+        <td>&nbsp;</td>
+        <td  nowrap="nowrap" colspan="6"><sup>4/</sup> Excluding Foreign listing securities</td>
+    </tr>
+</table>
+
+
+</body>
+</html>

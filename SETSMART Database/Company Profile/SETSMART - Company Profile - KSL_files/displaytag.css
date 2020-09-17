@@ -1,0 +1,68 @@
+th a, th a:visited {
+    color: #FFFFFF;
+    text-decoration: underline;
+    text-align: center;
+    vertical-align: top;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+    line-height: 20px;
+}
+th a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: top;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+    line-height: 20px;
+}
+th {
+    color: #FFFFFF;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: top;
+    background-color: #939393;
+    font-family: Tahoma, Arial, Helvetica;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+    line-height: 20px;
+    padding: 3px;
+}
+
+span.pagelinks {
+    border: 0px;
+    padding: 20px 4px 2px 4px;
+    width: auto;
+    display: block;
+    border-top: none;
+    margin-bottom: -5px;
+}
+
+span.pagebanner {
+    border: 0px;
+    padding: 2px 4px 2px 4px;
+    width: auto;
+    margin-top: 10px;
+    display: block;
+    border-bottom: none;
+}
+th.sorted {
+    background-color: #FF8400;
+}
+td.sorted {
+    background-color: #FCFF00;
+}
+
+th.sorted a, th.sortable a {
+    text-align: center;
+    vertical-align: top;
+    background-position: right;
+    display: inline;
+    width: 100%;
+}

@@ -1,17 +1,26 @@
+import requests
 import xlrd
 import pandas as pd
+from lxml import html
 
 def cell2float(x):
     """Get cell value as float. If there is no data, such as some P/E, returns None."""
     try:
         return float(x.value)
     except ValueError as e:
-        print("Can't convert to float: {}".format(x))
+        # print("Can't convert to float: {}".format(x))
+        pass
     return None # Or 0.0 float(0.0)
 
-def ts_date(x): 
-    """Get date from Cell."""
-    return xlrd.xldate_as_datetime(x.value, 0)
+def ts_date(df): 
+    """Parse cell data. Also produce other features such as Day of Week, Day of Month."""
+    cell2date = lambda x: xlrd.xldate_as_datetime(x.value, 0)
+    date2dow = lambda x: x.date() # Day of Week
+    
+    df['Date'] = df.Date.apply(cell2date)
+    df['TradingDay'] = df['Date'].apply(date2dow)
+    df = df.set_index('TradingDay')
+    return df
 
 def ts_floats(df, cols):
     """Make float values for columns named in cols"""
@@ -25,8 +34,17 @@ def ts_floats(df, cols):
 class HistoricalTrading:
     def __init__(self, symbol, dataFolder=None):
         self.symbol = symbol
-        self.workbook = xlrd.open_workbook("%s/HistoricalTrading.xlsx" % symbol)
+        
+        try:
+            self.workbook = xlrd.open_workbook("%s/HistoricalTrading.xlsx" % symbol)
+        except IOError:
+            self.workbook = pd.read_html("%s/HistoricalTrading.xls" % symbol)
         self._df = self.dataframe()
+        
+    @property
+    def df(self):
+        """Shorthand to current dataframe"""
+        return self._df
 
     @property
     def worksheet(self):
@@ -54,8 +72,7 @@ class HistoricalTrading:
         df = df[:-3] # Remove last three lines
 
         # Date column is a date. This will be index for time-series data frame
-        df['Date'] = df.Date.apply(ts_date)
-        df = df.set_index('Date')
+        df = ts_date(df)
         
         # Convert values to floats and clean data frame
         if clean:
@@ -112,6 +129,70 @@ class HistoricalTrading:
         daily_pe.plot()
         daily_marketcap.plot()
         daily_spreads.plot()
+    
+    def __repr__(self):
+        return """<HistoricalTrading {}>""".format(self.symbol)
+
+class Factsheet:
+    urlTemplate = "https://www.set.or.th/set/factsheet.do?symbol=%s&ssoPageId=3&language=th&country=TH"
+    def __init__(self, symbol):
+        self.symbol = symbol
+        self.url = self.urlTemplate % symbol
+        r = requests.get(self.url)
+        print(r.status_code, r.encoding)
+        self.data = r.text
+        self.tree = html.fromstring(r.content)
+        
+        
+        page = self.tree.xpath('/html/body/table')[0].getchildren()[2].getchildren()[0].getchildren()[1]
+        
+        # Price (บาท)
+        # 52 Week High/Low
+        # P/E (X)
+        # P/BV (X)
+        # Paid-up (ลบ.)
+        # Market Cap (ลบ.)
+        box = page.getchildren()[1].getchildren()[0].getchildren()[0].getchildren()
+        # print(box)
+        
+        # .getchildren()[0].getchildren()[0].getchildren()
+        row1 = box[0]
+        row2 = box[1]
+        # Get value row-by-row
+        # print(row1.xpath('td')[6].text_content())
+        # Price (บาท)
+        price_label = row1.xpath('td')[0].text_content()
+        price_value = row2.xpath('td')[0].text_content()
+        # 52 Week High/Low
+        # print(row1.xpath('td')[1].text_content())
+        range52wk_label = row1.xpath('td')[1].text_content()
+        range52wk_value = row2.xpath('td')[1].text_content()
+        # P/E (X)
+        # print(row1.xpath('td')[2].text_content())
+        pe_label = row1.xpath('td')[2].text_content()
+        pe_value = row2.xpath('td')[2].text_content()
+        # P/BV (X)
+        # print(row1.xpath('td')[3].text_content())
+        pb_label = row1.xpath('td')[3].text_content()
+        pb_value = row2.xpath('td')[3].text_content()
+        # Paid-up (ลบ.)
+        # print(row1.xpath('td')[4].text_content())
+        paidup_label = row1.xpath('td')[4].text_content()
+        paidup_value = row2.xpath('td')[4].text_content()
+        # Market Cap (ลบ.)
+        # print(row1.xpath('td')[5].text_content())
+        marketcap_label = row1.xpath('td')[5].text_content()
+        marketcap_value = row2.xpath('td')[5].text_content()
+        
+        self.value = {}
+        self.value[price_label] = price_value
+        self.value[range52wk_label] = range52wk_value
+        self.value[pe_label] = pe_value
+        self.value[pb_label] = pb_value
+        self.value[paidup_label] = paidup_value
+        self.value[marketcap_label] = marketcap_value
+        
+        # print(price_label, price_value)
 
 if __name__ == '__main__':
     import os, os.path
