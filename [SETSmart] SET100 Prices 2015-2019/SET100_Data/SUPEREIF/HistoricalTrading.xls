@@ -1,0 +1,2174 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Historical Trading - Trading & Statistics</title>
+</head>
+<body>
+<div class="heading1"> Historical Trading</div>
+  <table class="queryfont" width="100%" border="0" cellspacing="0" cellpadding="4">
+    <tr>
+      <td class="queryfont" width="100">Symbol :</td>
+      <td nowrap="nowrap">SUPEREIF</td>
+    </tr>
+    <tr>
+      <td class="queryfont">Display  : </td>
+      <td>
+        Trading&Statistics
+        &nbsp;&nbsp;
+      </td>
+    </tr>
+    <tr>
+      <td class="queryfont" width="15%">Trading Method: </td>
+      <td>
+        
+          
+          Trade Report
+          
+          
+        
+      </td>
+    </tr>
+    <tr>
+      <td class="queryfont" valign="top">Period : </td>
+      <td>
+        
+          Daily
+          
+          
+          
+          
+        &nbsp;
+        13/11/2013&nbsp;To&nbsp;12/11/2019
+      </td>
+    </tr>
+  </table>
+<div class="remark">Remark: Price of NVDR security is the same as the price of underlying security from Auto Matching Method.</div>
+<br/>
+<div align="center">
+
+
+
+</div>
+<br/>
+
+  
+    
+    
+      
+      
+      <table width="100%" cellspacing="0" cellpadding="3"  border="0" class="tfont">
+        <tr>
+          <td valign="bottom" align="right" class="remark" colspan="3">Remark: Avg* include Off-hour Trading</td>
+        </tr>
+        <tr>
+          <td><!--summary table-->
+            <table width="100%" cellspacing="0" cellpadding="3" class="tfont" border="1">
+              <tr height="21" align="center" class="heading-set">
+                <td class="heading-set">Summary</td>
+                <td class="heading-set">Price</td>
+                <td class="heading-set">Date</td>
+              </tr>
+              <tr>
+                <td align="center" class="table">High</td>
+                  
+                    
+                      <td align="right">-</td>
+                      <td align="center" class="table">-</td>
+                    
+                    
+                  
+              </tr>
+              <tr>
+                <td align="center" class="table">Low</td>
+                
+                  
+                    <td align="right">-</td>
+                    <td align="center" class="table">-</td>
+                  
+                  
+                
+              </tr>
+              <tr>
+                <td align="center" class="table">Avg*</td>
+                
+                  
+                    <td align="right">
+                      
+                      
+                        N/A
+                        
+                      
+                    </td>
+                  
+                  
+                
+                <td><div align="center">-</div></td>
+              </tr>
+            </table>
+          </td>
+          <td></td>
+          <td>
+            
+            
+              
+                
+                
+                
+              
+              
+            
+            <table width="100%" cellspacing="0" cellpadding="3" class="tfont" border="1">
+              <tr align="center" class="heading-set">
+                <td class="heading-set">Summary</td>
+                <td class="heading-set">Transaction</td>
+                
+                  
+                  
+                    <td class="heading-set">Trade Report Volume<br>('000 Shares)</td>
+                    <td class="heading-set">Trade Report Value<br>(Baht)</td>
+                  
+                  
+                
+                </tr>
+                <tr>
+                  <td align="center" class="table">58 days</td>
+                  <td align="right">-</td>
+                  <td align="right" class="table">-</td>
+                  <td align="right" class="table">-</td>
+                </tr>
+                <tr>
+                  <td align="center" class="table">Avg</td>
+                  <td align="right">-</td>
+                  <td align="right" class="table">-</td>
+                  <td align="right" class="table">-</td>
+                </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <br/>
+      
+      
+        
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table  width="100%" cellspacing="0" cellpadding="3" class="tfont">
+  <tr>
+    <td align="right" class="remark">
+      Remark: Transaction, Volume, Value and Avg include Off-hour Trading
+      
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table width="100%" cellspacing="0" cellpadding="3" class="tfont" border="1">
+        <tr align="center">
+          <td rowspan="2">Date</td>
+          <td colspan=4>Trading</td>
+          <td colspan=8>Statistics</td>
+          <td colspan="2">Sign</td>
+        </tr>
+        <tr align="center">
+          
+          <td>Avg</td>
+          <td>Transaction</td>
+          <td>Volume<br/>(Shares)</td>
+          <td>Value<br/>(Baht)</td>
+          
+          <td>Market Cap</td>
+          <td>P/E*<br/>(Times)</td>
+          <td>P/BV*<br/>(Times)</td>
+          <td>Dividend Yield<br/>(%)</td>
+          <td>Turnover Ratio</td>
+          
+          
+          
+            
+          
+          <td>Par<br/>(Baht)</td>
+          <td>Listed Shares<br/>(Shares)</td>
+        
+          <td>AUM<br/>(Baht)</td>
+        
+        
+          
+          <td>Trading Sign</td>
+          <td>Benefit Sign</td>
+        </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">12/11/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">5,871,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.14</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">11/11/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">5,871,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.42</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">8/11/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">5,922,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.22</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">7/11/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,025,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.10</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">6/11/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,025,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.15</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">5/11/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">5,974,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.05</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">4/11/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">5,974,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.11</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">1/11/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,025,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.06</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">31/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,025,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.10</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">30/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,025,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.15</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">29/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,077,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.21</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">28/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">5,974,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.26</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">25/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">5,819,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.30</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">24/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">5,974,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">1.14</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">22/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,180,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.52</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">21/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,283,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.21</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">18/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,386,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.12</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">17/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,386,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.24</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">16/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,386,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.04</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">15/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,437,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.06</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">11/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,437,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.11</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">10/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,437,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.07</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">9/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.06</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">8/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.05</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">7/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,437,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.15</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">4/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,437,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.08</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">3/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,437,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.05</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">2/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,437,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.15</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">1/10/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,437,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.18</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">30/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.12</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">5,168,153,521.51</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">27/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.12</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">26/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,540,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.07</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">25/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.18</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">24/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.04</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">23/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.12</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">20/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.17</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">19/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,540,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.37</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">18/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,540,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.46</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">17/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,386,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.24</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">16/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,437,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.11</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">13/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.33</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">12/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,437,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.16</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">11/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,437,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.48</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">10/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.13</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">9/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.24</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">6/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.48</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">5/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,540,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.20</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">4/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,592,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.50</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">3/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.52</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">2/9/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,489,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.79</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">30/8/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,437,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">0.62</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">29/8/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,386,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">1.22</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">28/8/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,540,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">1.12</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">27/8/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,643,500,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">1.57</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">26/8/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,386,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">2.41</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">23/8/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">6,180,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">2.37</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">22/8/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">5,974,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">1.11</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+          <tr>
+            <!-- trading -->
+            <td align="center">21/8/2019</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            
+            <td align="right">5,871,000,000.00</td>
+            <td align="right">-</td>
+            <td align="right">-</td>
+            <td align="right">N/A</td>
+            <td align="right">7.49</td>
+            
+            <td align="right">10.00</td>
+            <td align="right">515,000,000.00</td>
+          
+            <td align="right">-</td>
+          
+          
+            
+            <td align="right">
+              
+                
+              
+            </td>
+            <td align="right">
+              
+                  
+              
+            </td>
+          </tr>
+        
+      </table>
+    </td>
+  </tr>
+</table>
+
+        
+        <br/>
+        <div class="remark">- Bid/Offer price showed as ATC means the best bid/offer at the end of day is still ATO/ATC because the security is halted/suspended during Pre-Open or Pre-Close session until market close and the market orders during those periods are not cancelled.</div>
+        
+        <div class="remark">* For securities under Property Fund sector, EPS and P/E will not be calculated, moreover, BV and P/BV denotes NAV and P/NAV respectively. (effective 31 March 2009 onwards) Furthermore, for Unit Trust securities, NAV and P/NAV will also be calculated.</div>
+        
+      
+  
+  
+  
+
+</body>
+</html>
